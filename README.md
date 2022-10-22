@@ -9,4 +9,5 @@ host@user:~ $ npm run test
 ### Supporto:
 ```csharp
 🚨Supporto: SkryxDev#3846
+Oppure apri un issue
 ```
