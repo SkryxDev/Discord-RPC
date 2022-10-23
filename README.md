@@ -1,6 +1,7 @@
 # Discord RPC
 
-Questo è un modo facile per creare e usare Discord-RPC!\n
+Questo è un modo facile per creare e usare Discord-RPC!
+
 Andare su /src/app.js e modificare tutti i parametri!
 
 ### Start:
